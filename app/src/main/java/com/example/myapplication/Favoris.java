@@ -65,7 +65,7 @@ public class Favoris extends AppCompatActivity {
         // Create an ArrayAdapter to display the data in the ListView
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(
                 Favoris.this,
-                R.layout.item1,
+                R.layout.item,
                 data
         );
 
